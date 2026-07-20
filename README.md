@@ -23,6 +23,9 @@ Kits are stored in `plugins/Kits/kits.yml`
 4. The compiled jar will appear in `build/libs/kits-plugin-1.0-SNAPSHOT.jar`.
 5. Drop that jar into your server's `plugins/` folder and restart the server.
 
+### Bugs
+if you find any bugs please use the github issues
+
 ---
 
 ## Credits
