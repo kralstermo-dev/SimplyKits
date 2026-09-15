@@ -25,8 +25,3 @@ Kits are stored in `plugins/Kits/kits.yml`
 
 ### Bugs
 if you find any bugs please use the github issues
-
----
-
-## Credits
-This plugin was made by Morrmo / Morrhawk33

@@ -11,9 +11,6 @@ repositories {
 }
 
 dependencies {
-    // "+" means "latest build of 26.2" at compile time.
-    // compileOnly = we need it to WRITE the code, but the server already
-    // provides the real thing at runtime, so we don't bundle it into our jar.
     compileOnly("io.papermc.paper:paper-api:26.2.build.+")
 }
 
